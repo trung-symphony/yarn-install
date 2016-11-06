@@ -1,7 +1,5 @@
 # Credit
-All credits are given to Joakim Carlstein [https://www.npmjs.com/package/gulp-install]. `yarn-install` is modified on top of `gulp-install` to support Yarn.
-
-# yarn-install [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][depstat-image]][depstat-url]
+All credits are given to Joakim Carlstein [https://www.npmjs.com/package/gulp-install]. `yarn-installs` is modified on top of `gulp-install` to support Yarn.
 
 > Automatically install npm, bower, tsd, and pip packages/dependencies if the relative configurations are found in the gulp file stream respectively
 
