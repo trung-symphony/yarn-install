@@ -1,6 +1,6 @@
 {
   "name": "yarn-installs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Automatically install npm through yarn, bower, tsd, and pip packages/dependencies if the relative configurations are found in the gulp file stream respectively",
   "main": "index.js",
   "scripts": {
